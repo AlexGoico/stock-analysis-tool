@@ -2,8 +2,14 @@
 
 ## Setup
 
-Must have python3 installed with venv support (typically included within
-the python3 installation).
+### Prerequisites
+
+* Must have python3 installed with venv support (typically included within
+  the python3 installation).
+  * Use your system's package manager or download directory: https://www.python.org/downloads/
+* Alpha Vantage API Key (Free)
+  * Sign up here: https://www.alphavantage.co/support/#api-key
+  * Key limitations are 5 requests per minute, 500 per day.
 
 ### Setup Commands
 
