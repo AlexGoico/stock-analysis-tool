@@ -259,5 +259,7 @@ dmypy.json
 pyvenv.cfg
 pip-selfcheck.json
 
+stock_reports/
+
 # End of https://www.toptal.com/developers/gitignore/api/dotenv,venv,python,pycharm
 
